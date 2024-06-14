@@ -6,7 +6,7 @@ const Details = () => {
     <Container
     w={"315px"}
     h={"51px"}
-    mt={"158px"}
+    mt={"30px"}
     ml={"30px"}
     borderRadius={"10px"}
     boxShadow={"rgba(100, 100, 111, 0.2) 0px 7px 29px 0px"}
@@ -17,8 +17,12 @@ const Details = () => {
       fontSize={"28px"}
       lineHeight={"36px"}
       fontWeight={700}
-      h={"36px"}
-      // letterSpacing={'-5%'}
+      color={'#001233'}
+      letterSpacing={'-5%'}
+      w={'136px'}
+      h={'36px'}
+      ml={'20px'}
+      mt={'9px'}
     >
       N120,000
     </Heading>

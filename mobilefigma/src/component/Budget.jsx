@@ -8,7 +8,7 @@ const Budget = () => {
     as="h1"
     w={"87px"}
     h={"36px"}
-    mt={"64px"}
+    mt={"20px"}
     ml={"30px"}
     fontWeight={700}
     color="##001233"
@@ -16,7 +16,6 @@ const Budget = () => {
     lineHeight={"36px"}
     letterSpacing={"-2px"}
     fontFamily={'Circular Std'}
-     border="1px solid red"
   >
     Budget
   </Heading>

@@ -7,10 +7,8 @@ const Monthlybudget = () => {
       <Flex
         w={"131px"}
         h={"20px"}
-        mt={"128px"}
+        mt={"64px"}
         ml={"30px"}
-        border="1px solid red"
-        // align={"center"}
         justifyContent={"space-between"}
       >
         <Avatar
@@ -22,7 +20,7 @@ const Monthlybudget = () => {
         />
         <Text
           w={"101px"}
-        //   ml={"15px"}
+          ml={"10px"}
           color={"#707480"}
           fontWeight={400}
           fontSize={"14px"}
