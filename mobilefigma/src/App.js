@@ -4,6 +4,7 @@ import { Grid, Stack } from '@chakra-ui/react';
 import Figmadesign from './component/Navbar';
 import Monthlybudget from './component/Monthlybudget';
 import Budget from './component/Budget';
+import Details from './component/Details';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
  <Figmadesign/>
  <Budget/>
  <Monthlybudget/>
+ <Details/>
 
     </Stack>
 

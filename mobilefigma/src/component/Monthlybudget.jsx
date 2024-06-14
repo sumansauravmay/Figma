@@ -4,14 +4,13 @@ import { PiNotionLogoFill } from "react-icons/pi";
 
 const Monthlybudget = () => {
   return (
-    <Container>
       <Flex
         w={"131px"}
         h={"20px"}
         mt={"128px"}
         ml={"30px"}
         border="1px solid red"
-        align={"center"}
+        // align={"center"}
         justifyContent={"space-between"}
       >
         <Avatar
@@ -23,7 +22,7 @@ const Monthlybudget = () => {
         />
         <Text
           w={"101px"}
-          ml={"15px"}
+        //   ml={"15px"}
           color={"#707480"}
           fontWeight={400}
           fontSize={"14px"}
@@ -34,28 +33,6 @@ const Monthlybudget = () => {
           Monthly Budget
         </Text>
       </Flex>
-
-      <Container
-        w={"315px"}
-        h={"51px"}
-        mt={"158px"}
-        ml={"30px"}
-        borderRadius={"10px"}
-        boxShadow={"rgba(100, 100, 111, 0.2) 0px 7px 29px 0px"}
-      >
-        <Heading
-          as={"h1"}
-          fontFamily={"Circular Std"}
-          fontSize={"28px"}
-          lineHeight={"36px"}
-          fontWeight={700}
-          h={"36px"}
-          // letterSpacing={'-5%'}
-        >
-          N120,000
-        </Heading>
-      </Container>
-    </Container>
   );
 };
 
