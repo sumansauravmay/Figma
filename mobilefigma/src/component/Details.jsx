@@ -22,7 +22,7 @@ const Details = () => {
       w={'136px'}
       h={'36px'}
       ml={'20px'}
-      mt={'9px'}
+      mt={'10px'}
     >
       N120,000
     </Heading>

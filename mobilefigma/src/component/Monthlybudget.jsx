@@ -7,7 +7,7 @@ const Monthlybudget = () => {
       <Flex
         w={"131px"}
         h={"20px"}
-        mt={"64px"}
+        mt={"30px"}
         ml={"30px"}
         justifyContent={"space-between"}
       >

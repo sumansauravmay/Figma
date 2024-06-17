@@ -9,7 +9,7 @@ const Spent = () => {
       w={'196px'}
       h={'31px'}
       ml={'30px'}
-      mt={'81px'}
+      mt={'30px'}
       >
 <Heading as={'h2'}
 w={'83px'}
@@ -36,7 +36,7 @@ color={'#0466C8'}
 <Box 
 w={'30px'}
 h={'16px'}
-mt={'84px'}
+mt={'33px'}
 ml={'95px'}
 >
     <Box 

@@ -7,6 +7,7 @@ import Budget from './component/Budget';
 import Details from './component/Details';
 import Spent from './component/Spent';
 import Line from './component/Line';
+import CircularAmountSpent from './component/Circular/CircularAmountSpent';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
  <Details/>
 <Spent/>
 <Line/>
+<CircularAmountSpent/>
     </Stack>
 
   );
